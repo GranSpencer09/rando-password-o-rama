@@ -1,7 +1,11 @@
 ## The-Random-Password-Generator-O-Rama
 
-URL:
+URL: https://granspencer09.github.io/rando-password-o-rama/
 
+Pic of the first prompt to show what it should display upon loading
+<img width="539" alt="Screen Shot 2022-08-05 at 3 18 42 PM" src="https://user-images.githubusercontent.com/28960328/183218694-84315175-4c7a-476f-bd69-b326f75bbe00.png">
+
+Pic of the page as it displays after the app runs
 <img width="532" alt="Screen Shot 2022-08-05 at 2 58 44 PM" src="https://user-images.githubusercontent.com/28960328/183216907-c2306ea1-459c-4aaa-ad2b-5e707fafa711.png">
 
 
